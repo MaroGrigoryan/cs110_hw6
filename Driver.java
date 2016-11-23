@@ -8,8 +8,8 @@ public class Driver {
 		
 		System.out.println(box.getArea());
 		System.out.println(rectangle.getArea());
-		System.out.println(Math.factorial((int)5.6));
-		System.out.println(Math.factorialLoop((int)5.6));
+		System.out.println(Math.factorial((int)15.6));
+		System.out.println(Math.factorialLoop((int)15.6));
 		
 	}
 	
