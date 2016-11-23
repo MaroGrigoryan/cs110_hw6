@@ -6,7 +6,7 @@ public class Square {
 		this.length = n;
 	}
 	public int getArea(){
-		return this.length*this.length;
+		return length*length;
 	}
 	
 }
